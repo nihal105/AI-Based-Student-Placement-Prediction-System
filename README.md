@@ -121,7 +121,11 @@ based on student academic performance and activities.
 
 ##  Project Screenshot
 
-<img width="1140" height="803" alt="Screen Shot 2026-06-08 at 12 05 45 PM" src="https://github.com/user-attachments/assets/d0a729ce-4c72-4f61-b11d-a652cae9b31e" />
+<img width="1208" height="745" alt="Screen Shot 2026-06-16 at 8 31 11 PM" src="https://github.com/user-attachments/assets/c7ea7ea3-61ec-4cf7-b2d6-5f0997942498" />
+<img width="1440" height="810" alt="Screen Shot 2026-06-16 at 8 31 46 PM" src="https://github.com/user-attachments/assets/6afc828c-3137-48cc-88ce-b13ab3f18d1f" />
+<img width="1103" height="291" alt="Screen Shot 2026-06-16 at 8 32 06 PM" src="https://github.com/user-attachments/assets/2d56b980-4db4-463e-bc35-fde8415da98c" />
+
+
 
 
 ---
