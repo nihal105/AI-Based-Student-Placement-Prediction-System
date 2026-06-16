@@ -127,15 +127,15 @@ Student may require additional preparation or skill development to improve place
 
 ##  Project Screenshots
 
-### Student Input Dashboard
+### Application Interface 
 
 <img width="1208" height="745" alt="Student Placement Dashboard" src="https://github.com/user-attachments/assets/c7ea7ea3-61ec-4cf7-b2d6-5f0997942498" />
 
-### Prediction Interface
+### Student Input Dashboard
 
 <img width="1440" height="810" alt="Prediction Interface" src="https://github.com/user-attachments/assets/6afc828c-3137-48cc-88ce-b13ab3f18d1f" />
 
-### Prediction Result
+### AI recommendation
 
 <img width="1103" height="291" alt="Prediction Result" src="https://github.com/user-attachments/assets/2d56b980-4db4-463e-bc35-fde8415da98c" />
 
@@ -180,11 +180,11 @@ student-placement-prediction-system/
 
 **Muhammed Nihal**
 
-💼 LinkedIn: https://www.linkedin.com/in/muhammed-nihal105
+ LinkedIn: https://www.linkedin.com/in/muhammed-nihal105
 
-🌐 GitHub: https://github.com/nihal105
+ GitHub: https://github.com/nihal105
 
-📧 Email: [muhammednihal5105@gmail.com](mailto:muhammednihal5105@gmail.com)
+ Email: [muhammednihal5105@gmail.com](mailto:muhammednihal5105@gmail.com)
 
 ---
 
