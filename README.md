@@ -1,5 +1,9 @@
 # AI-Based-Student-Placement-Prediction-System
 
+##  Live Demo
+
+🔗 Streamlit App: https://ai-based-student-placement-prediction-system.streamlit.app/
+
 ##  Project Overview
 
 This project is a Machine Learning based web application that predicts whether a student is likely to be placed or not based on academic and performance-related factors.
